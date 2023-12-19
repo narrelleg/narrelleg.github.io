@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Research
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Articles
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+“Tribeless Youth? Political Attitudes of Kenyan Students toward Democracy and Ethnicity.” Canadian Journal of African Studies, 2022 (with Sebastian Elischer and Amanda Edgell)
 
-What else do you need?
+### Working Papers
 
-### My story
+“Pushing Apart or Pulling Together? The Impact of Rising Violence on National Identity and Social Trust in Nigeria” (draft on request)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Works in Progress
+
+“Healing from History: The Effects of Reconciling Narratives about Past Violence”
+​
+"When the Founding Fathers are Killed: National Building in the Aftermath of Conflict"
+ 
+"Culture Shock and Socialization: Approaches to Ethnic Integration and Nation-Building in Nigeria’s National Youth Service"
+​
+“Poll Workers and Public Trust: The Role of the National Youth Service in Nigeria’s 2023 Elections” (with Nicholas Kerr and Amanda Edgell)
