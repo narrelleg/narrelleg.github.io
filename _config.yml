@@ -20,7 +20,7 @@ author: Narrelle Gilchrist
 ###############################################
 
 navbar-links:
-  About: home
+  About: "index"
   Research: "research"
   CV: "cv"
 
