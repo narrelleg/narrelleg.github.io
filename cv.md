@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Narrelle Gilchrist
+title: 'Narrelle Gilchrist'
 cover-img: "/Nairobi background.png"
 ---
 
