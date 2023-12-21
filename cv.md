@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: 
 cover-img: "/Nairobi background.png"
 ---
 
