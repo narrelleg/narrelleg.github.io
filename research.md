@@ -16,7 +16,7 @@ cover-img: "/Nairobi background.png"
 
 “Healing from History: The Effects of Reconciling Narratives about Past Violence"  
 
-"When the Founding Fathers are Killed: National Building in the Aftermath of Conflict"  
+"When the Founding Fathers are Killed: Nation-Building in the Aftermath of Conflict"  
 
 "Culture Shock and Socialization: Approaches to Ethnic Integration and Nation-Building in Nigeria’s National Youth Service"  
 
