@@ -2,7 +2,7 @@
 layout: page
 title: ''
 cover-img: "/Nairobi background.png"
-right-img: "/Africa.png"
+right-img: "/assets/Africa.png"
 ---
 
 ### Articles
