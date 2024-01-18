@@ -14,7 +14,9 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
-
+      {% if page.right-img %}
+          <img src="{{page.right-img}}" alt="Africa" style="float:right;width:42px;height:42px;">
+      {% endif %}
       {{ content }}
 
       {% if page.after-content %}
