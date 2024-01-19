@@ -9,9 +9,9 @@ right-img: "/assets/Africa.png"
 
 “Tribeless Youth? Political Attitudes of Kenyan Students toward Democracy and Ethnicity.” *Canadian Journal of African Studies*, 2022 (with Sebastian Elischer and Amanda Edgell)
 
-<div class="before-content" style="float:right;margin-top:100px"><img src="assets/Africa.png" alt="Africa" style="float:right;vertical-align:middle;width:420px;border-radius:50%;"></div>
+<div class="before-content" style="float:right;margin-top:100px"><img src="/assets/Africa.png" alt="Africa" style="float:right;vertical-align:middle;width:420px;border-radius:50%;"></div>
 
-  ### Working Papers
+### Working Papers
 
 “Pushing Apart or Pulling Together? The Impact of Rising Violence on National Identity and Social Trust in Nigeria” (draft on request)
 
