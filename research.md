@@ -17,10 +17,4 @@ right-img: "/assets/Africa.png"
 
 ### Works in Progress
 
-“Healing from History: The Effects of Reconciling Narratives about Past Violence"  
-
-"When the Founding Fathers are Killed: Nation-Building in the Aftermath of Conflict"  
-
-"Culture Shock and Socialization: Approaches to Ethnic Integration and Nation-Building in Nigeria’s National Youth Service"  
-
 “Poll Workers and Public Trust: The Role of the National Youth Service in Nigeria’s 2023 Elections” (with Nicholas Kerr and Amanda Edgell)
