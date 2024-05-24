@@ -13,7 +13,7 @@ right-img: "/assets/Africa.png"
 
 ### Working Papers
 
-“Pushing Apart or Pulling Together? The Impact of Rising Violence on National Identity and Social Trust in Nigeria” (draft on request)
+“Pushing Apart or Pulling Together? The Impact of Rising Violence on National Identity and Social Trust in Nigeria”
 
 ### Works in Progress
 
