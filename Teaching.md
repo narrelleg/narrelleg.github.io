@@ -13,7 +13,7 @@ Instructor: Tanushree Goyal
 
 *POL230 Introduction to Comparative Politics,* Fall 2024  
 **Teaching Assistant**, Evaluation: 4.65/5  
-Instructor: Andreas Wiedemman  
+Instructor: Andreas Wiedemann  
 
 
 *SPI200 Statistics for Social Sciences,* Spring 2024  
