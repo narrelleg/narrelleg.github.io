@@ -2,7 +2,6 @@
 layout: page
 title: ''
 cover-img: "/Nairobi background.png"
-right-img: "/assets/Africa.png"
 ---
 
 ### Dissertation Project
