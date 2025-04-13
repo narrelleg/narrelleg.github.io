@@ -385,7 +385,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 0px #EAEAEA solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -395,6 +395,9 @@ footer {
   {% endif %}
 }
 
+.fa-inverse {
+    color: grey;
+}
 footer p.text-muted {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
 }
