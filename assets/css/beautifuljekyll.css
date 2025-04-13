@@ -398,9 +398,6 @@ footer {
   {% endif %}
 }
 
-.fa-inverse {
-    color: grey;
-}
 footer p.text-muted {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
 }
@@ -413,7 +410,9 @@ footer a:hover,
 footer a:focus {
   color: {{ site.footer-hover-col | default: "#0085A1" }};
 }
-
+footer a:hover, footer a:focus {
+    color: grey;
+}
 footer .list-inline {
   margin: 0;
   padding: 0;
