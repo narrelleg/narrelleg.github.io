@@ -17,8 +17,8 @@ To answer these questions, I am pursuing two stages of data collection in Nigeri
 
 My other projects touch on various aspects of a larger research agenda, including 1) the long-term and micro-level effects of civil violence and 2) the role of inter-ethnic prejudice and distrust in politics.
 
-* “Poll Workers and Public Trust: The Role of the National Youth Service in Nigeria’s 2023 Elections” (with Nicholas Kerr and Amanda Edgell)
+* *Poll Workers and Public Trust: The Role of the National Youth Service in Nigeria’s 2023 Elections* (with Nicholas Kerr and Amanda Edgell)
 
-* “Pushing Apart or Pulling Together? The Impact of Rising Violence on National Identity and Social Trust in Nigeria”
+* *Pushing Apart or Pulling Together? The Impact of Rising Violence on National Identity and Social Trust in Nigeria*
 
-* “Tribeless Youth? Political Attitudes of Kenyan Students toward Democracy and Ethnicity.” *Canadian Journal of African Studies*, 2022 (with Sebastian Elischer and Amanda Edgell)
+* *Tribeless Youth? Political Attitudes of Kenyan Students toward Democracy and Ethnicity,* Canadian Journal of African Studies, 2022 (with Sebastian Elischer and Amanda Edgell)
