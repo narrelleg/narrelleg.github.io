@@ -140,7 +140,10 @@ img {
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
 }
-
+.navbar-custom {
+    background-color: black;
+}
+  
 .navbar-custom,
 .navbar-custom.top-nav-short,
 .navbar-custom.top-nav-short-permanent {
