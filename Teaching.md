@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ''
-cover-img: "/Nairobi background.png"
+cover-img: "/IMG_4875.png"
 ---
 
 **Princeton University**
