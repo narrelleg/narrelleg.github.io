@@ -8,7 +8,7 @@ right-img: "/IMG_4875.png"
 **Princeton University**
 
 *POL357 Gender and Development,* Spring 2025  
-**Teaching Assistant**  
+**Teaching Assistant**, Evaluation: 4.45/5   
 Instructor: Tanushree Goyal  
 
 
