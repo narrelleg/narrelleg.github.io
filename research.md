@@ -4,13 +4,13 @@ title: ''
 cover-img: "/Nairobi background.png"
 ---
 
-### Dissertation Project
+#### Dissertation Project
 
 *Forgive or Forget? How (Not) Teaching History Shapes the Legacies of Violence*
 
 In my dissertation, I examine the role of history education (or its lack) in peace-building and nation-building after conflict. While many view a truth and reconciliation process as key to peace-building, and history teaching as key to nation-building, many post-conflict countries instead suppress and erase their violent histories, avoiding discussion of them in schools and other public spaces. The first part of my dissertation builds a typology of the different approaches to engaging with violent national histories, and theorizes about what makes some countries less likely to engage with their difficult histories than others. The second part turns to empirically examining the consequences of confronting vs. suppressing difficult histories. I draw evidence primarily on Nigeria, which has rarely taught history in the 55 years since the end of its Biafran Civil War. I first conducted an inter-generational survey of 2590 current secondary school students and their parents to determine whether and what narratives about the Biafran Civil War have spread through families and communities in the absence of formal history education. I find that most Nigerian youth know very little about what happened; however, the little they do know is highly ethnically polarized, and contributes to modern-day distrust and tension between the groups that fought on the other side of the war. I then ran a field experiment with nearly 3600 students across 18 schools to see whether teaching youth a fuller story of what happened in the war would reduce inter-ethnic tensions and prejudices. I find, however, that increasing factual knowledge about the civil war does little to reduce current prejudices, with many students' failing to accept the experimental courses' message that violence, human rights violations, and the dehumanization of ethnic groups is wrong. Taken together, my findings suggest that inherited ``us vs. them" attitudes pose a high barrier to the development of a shared, unifying, and reconciliation-oriented narrative of history in post-conflict societies. In many cases, feelings, not facts, are what sustain the long-term legacies of violence. 
 
-## Working Papers from Dissertation
+#### Working Papers from Dissertation
 
 <details>
   <summary> Do People Forgive and Forget? Historical Narratives and Ethnic Prejudice Across Post-Conflict Generations </summary>
@@ -24,7 +24,7 @@ In my dissertation, I examine the role of history education (or its lack) in pea
   Following the model of Holocaust education, education about historical atrocities and conflicts is often seen as a way to teach youth to reject present-day violence and intolerance. But in polarized, post-conflict societies, can teaching schoolchildren about past violence truly encourage them to “learn from the past”? I present evidence from a field experiment in Nigeria, where historical conflicts have rarely been previously taught about in schools. Working with 3652 secondary school students in 18 schools across 3 cities, I assigned classes to take a unique 5-lesson course on either Nigeria’s Civil War or, for comparison, a more distanced international example of violence, the Rwandan Genocide. These courses combined the teaching of history with elements of “peace education” designed to build inter-group empathy and a recognition of the harms of group-based ways of thinking. Despite this, I find learning about neither national nor international historical conflicts made students more likely to oppose the use of violence and human rights violations, or to be more tolerant toward ethnic out-groups, relative to a survey-only control group. Many students voiced support, rather than opposition to, the ethnic stereotypes and dehumanization that drove violence in both Nigeria and Rwanda, and students learning Nigerian history tended to blame ethnic out-groups for what happened, even if they also recognized them as victims. My findings suggest knowledge of past atrocities does not always translate into a recognition of those atrocities as wrong. In post-conflict contexts, many youth inherit ethnically essentialist, “us” vs. “them” attitudes at a young age, posing a high barrier to efforts to build peace and inter-group empathy in the classroom or other settings. 
 </details>
 
-### Selected Other Projects
+#### Selected Other Projects
 
 My other projects touch on various aspects of a larger research agenda, including 1) the long-term and micro-level effects of civil violence and 2) the role of inter-ethnic prejudice and distrust in politics.
 
