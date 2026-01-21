@@ -13,16 +13,16 @@ Instructor: Tanushree Goyal
 
 
 *POL230 Introduction to Comparative Politics,* Fall 2024  
-**Teaching Assistant** 
+**Teaching Assistant**  
 Instructor: Andreas Wiedemann  
 
 
 *SPI200 Statistics for Social Sciences,* Spring 2024  
-**Head Teaching Assistant** 
+**Head Teaching Assistant**  
 Instructor: Saad Gulzar  
 
 
 *POL300 Conducting Independent Research in Political Science,* Fall 2023  
-**Teaching Assistant** 
+**Teaching Assistant**  
 Instructor: John Kastellec and Paul Frymer  
 
